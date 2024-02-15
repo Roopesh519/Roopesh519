@@ -4,7 +4,7 @@
 <h3 align="center">A passionate and dedicated Information Science undergraduate currently in my fourth year of engineering. As an aspiring technologist, my academic journey has been driven by an insatiable curiosity for all things related to information and technology.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roopesh519&label=Profile%20views&color=0e75b6&style=flat" alt="roopesh519" /> </p>
 
-<img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+<img style="display: block; margin: auto;" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 - 🌱 I’m currently learning **React Native, MERN Stack,**
 
