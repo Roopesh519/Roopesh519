@@ -10,12 +10,11 @@
 
 - 🌱 I’m currently learning **React Native, MERN Stack,**
 
-- 👨‍💻 All of my projects are available at [https://roopesh-s.netlify.app](https://roopesh-s.netlify.app)
+- 👨‍💻 All of my projects are available at <a href="https://roopesh-s.netlify.app">My Portfolio</a>
 
 - 📫 How to reach me **rsroopesh565@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1IfnAuz1F7w1Sst76vC7vIH_A_IHFJ0b2/view](https://drive.google.com/file/d/1IfnAuz1F7w1Sst76vC7vIH_A_IHFJ0b2/view)
-
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1IfnAuz1F7w1Sst76vC7vIH_A_IHFJ0b2/view">Resume</a>
 - ⚡ Fun fact **I am always open to learn something new.**
 
 <h3 align="left">Connect with me:</h3>
