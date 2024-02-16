@@ -8,7 +8,7 @@
 </p>
 
 
-- 🌱 I’m currently learning **React Native, MERN Stack,**
+- 🌱 I’m currently learning **React Native, MERN Stack, Game Development**
 
 - 👨‍💻 All of my projects are available at <a href="https://roopesh-s.netlify.app">My Portfolio</a>
 
